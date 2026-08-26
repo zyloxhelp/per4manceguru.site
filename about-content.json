@@ -1,0 +1,119 @@
+{
+  "_comment": "Approved About Us copy — source of truth for ask-insights-about-us.html. Every visible word on the page must match this file exactly, in this order. Verified against Ask-Insights-About-Us-Rewrite.docx.",
+  "meta": {
+    "seoTitle": "Ask Insights | DEI Consultancy in India",
+    "metaDescription": "Ask Insights is a DEI consultancy in India led by Padma Shri Dr. Niru Kumar. 17+ years working with 100+ organizations on workplace inclusion.",
+    "slug": "/about-us/"
+  },
+  "hero": {
+    "heading": "Ask Insights: Diversity & Inclusion Pioneers in India",
+    "intro": "Ask Insights has spent more than 17 years working on Diversity, Equity and Inclusion (DEI) inside Indian corporates, helping leadership teams move from stated intent to actual practice. The goal isn't just representation on paper. It's building workplaces where people can do their best work without hiding parts of who they are, and where that shows up in wellbeing and business results, not just in a policy document."
+  },
+  "founderProfile": {
+    "name": "Dr. Niru Kumar",
+    "role": "Founder & CEO",
+    "paragraphs": [
+      "Dr. Niru Kumar received the Padma Shri in 2021 for her work in Diversity and Inclusion. As Founder and CEO of Ask Insights, she has worked with more than 100 corporate organizations and trained over 60,000 individuals, including teams at Google, Hindustan Unilever, PepsiCo and Amazon.",
+      "She trained as a Medical Doctor before becoming an Executive Coach, NLP Master Practitioner and Hypnosis Practitioner, a background that shapes how she approaches DEI consulting: less about policy templates, more about how people actually think and behave. Her coaching work with global leaders on Inclusive Leadership has helped organizations treat Diversity of Thought as something to actively build for, not just talk about in a townhall. Her own experience navigating a physical disability is part of why this work matters to her personally, not only professionally.",
+      "Under her leadership, Ask Insights now runs diversity training, inclusive workplace consulting and hiring strategy work for clients trying to build a real culture of inclusion, not just tick a compliance box."
+    ],
+    "socialRow": "Facebook | Instagram | LinkedIn",
+    "socialUrls": {
+      "Facebook": "https://m.facebook.com/askinsights/",
+      "Instagram": "https://www.instagram.com/askinsights/",
+      "LinkedIn": "https://www.linkedin.com/company/askinsights-diversityinclusion"
+    }
+  },
+  "directorProfile": {
+    "name": "Dr. Akshay Kumar",
+    "role": "Senior Consultant & Director",
+    "paragraphs": [
+      "Dr. Akshay Kumar holds a Ph.D. in Clinical and Positive Psychology and works as Director and Senior Consultant at Ask Insights. He currently teaches as an Affiliate Lecturer at the London Business School and previously held a tenured position as Senior Lecturer and Module Leader at the University of East London. At the Centre for Global Inclusion, USA, he's an Expert Consultant contributing to the latest edition of the Global Diversity Equity Inclusion Benchmarks (GDEIB).",
+      "His work has been recognized with the Emergent Psychologist Award from The National Academy of Psychology, and LBB India named him one of the country's Top 10 Psychologists. As a Clinical Psychologist, he's trained across several modalities, including CBT, Clinical Hypnosis, Neuro-Linguistic Programming, Mindfulness, Positive Psychological Interventions and clinical intervention basics.",
+      "He was also among the first academics to bring Positive Psychology and the Science of Happiness into Indian university classrooms, a curriculum he built alongside professors at Harvard University. Within Ask Insights, he works directly with client organizations as a consultant, coach and trainer."
+    ]
+  },
+  "leadershipTeam": {
+    "heading": "Leadership Team",
+    "members": [
+      { "name": "Padma Shri Dr Niru Kumar", "role": "Founder & CEO", "email": "drniru@askinsights.com" },
+      { "name": "Dr Prem Kumar Ganesan", "role": "Managing Director", "email": null },
+      { "name": "Dr Akshay Kumar", "role": "Executive Director & Senior Consultant", "email": "akshay@askinsights.com" },
+      { "name": "Mridula Asthana", "role": "Chief Operating Officer", "email": "mridula.asthana@askinsights.com" },
+      { "name": "Harman Mangat", "role": "Head, Digital Strategy & Marketing Communications", "email": "harman.mangat@askinsights.com" },
+      { "name": "Poorvi Sarin", "role": "Leadership Consultant and Coach, NLP Master Practitioner", "email": "poorvi.sarin@askinsights.com" }
+    ]
+  },
+  "facilitators": {
+    "heading": "Our Facilitators",
+    "profiles": [
+      { "name": "Dr. Anjali Nakra", "description": "MBBS, MD, Diplomate in Lifestyle Medicine, Harvard University. Founder, Path to Health Clinic." },
+      { "name": "Dr. J. S Bhasin", "description": "MBBS, MD. Consultant and Head, Paediatrics, BLK Super Speciality Hospital." },
+      { "name": "Dr. Sudipto Pakrasi", "description": "MBBS, MD. Chairman and Head, Ophthalmology, Medanta Hospital." },
+      { "name": "Dr. Neeraj Bhalla", "description": "Cardiologist, Director & Head, BLK Super Speciality Hospital." },
+      { "name": "Dr. Rahul Vohra", "description": "BDS, MDS. Senior Dentist, Founder, Vohra Multi-Speciality Dental Clinic. Professor, Krishna Medical College." },
+      { "name": "Dr. (Col) Gunjan Malhotra", "description": "Veteran Gynaecologist." },
+      { "name": "Dr. Nitin Shukla", "description": "Consultant Psychiatrist, Melbourne Health, North Western Mental Health. Director & Master Trainer, CHI-USA. Practitioner of CBT, Clinical Hypnotherapy, NLP, and Bio/Neurofeedback. Accredited Faculty of Psychotherapy, Royal Australian and New Zealand College of Psychiatrists." },
+      { "name": "Dr. Lalita Bhadhwar", "description": "MBBS, MD. Senior Consultant, Gynaecology, Apollo Hospital." }
+    ]
+  },
+  "globalConsultants": {
+    "heading": "Our Global Consultants",
+    "profiles": [
+      { "name": "Lynda White", "description": "President, McLeod White and Associates, Canada." },
+      { "name": "Howard J Ross", "description": "Cook Ross and Udarta Consulting, USA." },
+      { "name": "Julie O'Mara", "description": "President and Board Chair, Centre for Global Inclusion, USA. Co-Author, Global Diversity and Inclusion Benchmarks." },
+      { "name": "Jeremy Solomons", "description": "Rwanda-based independent coach, facilitator, and writer on Inclusive Leadership, Diverse Teams, and Career Re-Imagining, with a Global South perspective." },
+      { "name": "Dr. Alan Richter", "description": "President, QED Consulting, USA. Co-author, Global Diversity and Inclusion Benchmarks." }
+    ]
+  },
+  "visionMission": {
+    "heading": "Vision Mission",
+    "paragraphs": [
+      "Ask Insights works toward one particular kind of workplace: fair, respectful, and free of the fear that stops people from bringing their full selves to work. Where differences are treated as an asset rather than something to manage around. And where that inclusion has a direct link to health and wellbeing, not just morale scores on a survey.",
+      "Practically, that means equipping organizations and the leaders within them to become active allies of underrepresented and marginalized groups.",
+      "Removing structural barriers is core to that work. It's what allows inclusive intelligence, not just inclusive intentions, to actually drive results."
+    ]
+  },
+  "intersectionOfExpertise": {
+    "heading": "The Intersection of Expertise",
+    "paragraphs": [
+      "There's no single DEI template that works across industries, or even across teams within the same company. That's the starting point for how Ask Insights builds a strategy: understanding what a specific organization's goals, culture and constraints actually look like before recommending anything.",
+      "The team itself reflects that range. Senior doctors, psychologists and NLP practitioners work alongside each other, bringing psychology and NLP tools into DEI work in a way that's meant to create learning that sticks, not just a one-off workshop. International partnerships add a further layer, giving the work a global perspective that still gets adapted to the client in front of them."
+    ]
+  },
+  "whyPrioritize": {
+    "heading": "Why Prioritize DE&I?",
+    "paragraphs": [
+      "DEI isn't a side initiative in a healthy global economy. It's tied directly to how companies perform. Organizations that prioritize it tend to see gains in productivity, financial performance and innovation, largely because a diverse team brings more varied problem solving approaches to the table. Research on companies with diverse management teams points to meaningfully higher revenue growth compared to less diverse peers.",
+      "None of that is only about the numbers, though. Employees who feel accepted and valued show up differently: more engaged, more willing to stay. That shift is hard to manufacture through a policy document alone."
+    ]
+  },
+  "holisticApproach": {
+    "heading": "Our Holistic Approach to D&I",
+    "paragraphs": [
+      "Ask Insights covers the full spectrum of DEI work: organizational strategy, benchmarking, audits and assessments, and program design across gender, generational, cultural, LGBTQIA+, unconscious bias and disability inclusion. Treating these as separate, disconnected initiatives usually doesn't hold up over time. Addressing them together is what actually helps a workforce feel supported across all these dimensions, not just the one that got a training session this quarter."
+    ]
+  },
+  "talesOfTransformation": {
+    "heading": "Tales of Transformation",
+    "paragraphs": [
+      "The organizations we've partnered with have their own results to show for it, and that track record is part of what continues to bring in the kind of talent and client relationships that last.",
+      "If you're exploring how DEI consulting could work for your organization, get in touch. We can talk through what it would look like for your team specifically."
+    ],
+    "cta": "[View More...]",
+    "ctaHref": "ask-insights-homepage.html#testimonials"
+  },
+  "valuesInAction": {
+    "heading": "Our Values in Action",
+    "paragraphs": [
+      "Every client gets a DEI strategy built around their specific situation, because treating two different organizations' challenges the same way rarely works. That starts with actually understanding a client's values and objectives before designing anything, so the initiatives that come out of it hold up with their stakeholders and customers, not just look good on paper."
+    ],
+    "socialRow": "Facebook | Twitter | Instagram",
+    "socialUrls": {
+      "Facebook": "https://m.facebook.com/askinsights/",
+      "Twitter": null,
+      "Instagram": "https://www.instagram.com/askinsights/"
+    }
+  }
+}
